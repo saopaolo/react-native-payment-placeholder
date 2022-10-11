@@ -1,2 +1,2 @@
 # react-native-payment-placeholder
-Created with CodeSandbox
+Web starter payment template.
